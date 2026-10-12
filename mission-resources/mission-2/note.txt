@@ -1,0 +1,4 @@
+halcyon is a made up company that a Capture the flag lab was built for
+The files for running it are not available on the LIY website, however I have made them available here.
+If you wish to use them and learn about what they do and how they do it, go for it!
+halcyon-runsheet.md has instructions on what to do.
